@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-    "scripts": {
-    "start": "node index.js"
+     "scripts": {
+    "start": "node index.js",
+    "build": "npm i"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
